@@ -1,0 +1,9 @@
+#Ignore file extensions
+*.exe
+*.o
+*.a
+*.so
+
+# Ignore build directories
+build/
+bin/
